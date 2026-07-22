@@ -3,7 +3,7 @@
 **html**
 *jave script*
 `css`
-[link text](https://github.com/ngugibencollins-beep)
+[link text](https:/github.com/ngugibencollins-beep)
 [link text](https://web.whatsapp.com)
 - python
 - jss
