@@ -13,9 +13,9 @@
 3.git status
   | Tool    | purpose    | link   |
 |---------|-----------|----------|
-| chatgpt  | Developing | https://chatgpt.com/c/WEB:1ec9584a-d09f-4666-a2af-8bc6a48d73a3   |
-| visual studio    | coding  | https://code.visualstudio.com/  |
-| sublime text | coding  | https://www.sublimetext.com/ |
+| chatgpt  | Developing |[Link text] https://chatgpt.com/c/WEB:1ec9584a-d09f-4666-a2af-8bc6a48d73a3   |
+| visual studio    | coding  |[Link text] https://code.visualstudio.com/  |
+| sublime text | coding  |[Link text] https://www.sublimetext.com/ |
   - [x] html
   - [x]css 
 - [ ] java script
